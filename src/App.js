@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import Courses from "./Courses";
+import Footer from "./Footer";
+import Navbar from "./Navbar";
+
+import {useState} from 'react'
+
+import Data from "./Data";
 
 function App() {
+  const [activeCourse, setActiveCourse] = useState('All')
+  const [input, setInput] = useState('')
+  const {data} = Data()
+
+  const setActive = (course) => {
+    setActiveCourse(course)
+  }
+  const getInput = (course) =>{
+      setInput(course)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div classNameName="App">
+      <div className="bg-primary px-1 md:px-0 overflow-x-hidden">
+        <Navbar setInput={getInput} input={input}/>
+        <Courses activeCourse={activeCourse} setActiveCourse={setActive} data={data} input={input} setInput={getInput}/>
+        <Footer/>
+      </div>
     </div>
   );
 }
