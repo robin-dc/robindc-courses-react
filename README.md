@@ -8,7 +8,7 @@ These are the compilation of the courses i personally took that helped in my jou
 <br>
 
 
-<a href="https://robindc-courses.vercel.app" target="_blank"><img src='https://github.com/robin-dc/robindc-courses/blob/main/robincourses_preview.png'></a>
+<a href="https://robindc-courses-react.netlify.app/" target="_blank"><img src='https://github.com/robin-dc/robindc-courses/blob/main/robincourses_preview.png'></a>
 
 <br>
 
