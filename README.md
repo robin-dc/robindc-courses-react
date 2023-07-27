@@ -3,7 +3,7 @@ These are the compilation of the courses i personally took that helped in my jou
 
 <br>
 
-<img src="https://img.shields.io/badge/-tailwind-0375A1?.svg?&style=for-the-badge&logo=tailwind&logoColor=0f172a"/>   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/-tailwind-0375A1?.svg?&style=for-the-badge&logo=tailwind css&logoColor=0f172a"/>   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <br>
 
