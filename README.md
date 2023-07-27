@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# @robindc courses : Overview
+These are the compilation of the courses i personally took that helped in my journey.
+
+<br>
+
+<img src="https://img.shields.io/badge/-tailwind css-0375A1?.svg?&style=for-the-badge&logo=tailwind css&logoColor=0f172a"/>   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<br>
+
+
+<a href="https://robindc-courses.vercel.app" target="_blank"><img src='https://github.com/robin-dc/robindc-courses/blob/main/robincourses_preview.png'></a>
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
